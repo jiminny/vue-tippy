@@ -135,7 +135,7 @@
     "vue"
   ],
   "dependencies": {
-    "popper.js": "1.14.3",
+    "popper.js": "1.14.4",
     "tippy.js": "2.5.3"
   }
 }

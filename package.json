@@ -1,8 +1,11 @@
 {
-    "name": "vue-tippy",
+    "name": "@jiminny/vue-tippy",
     "version": "4.4.0",
     "description": "Directive and Component wrapper for Tippy.js",
     "author": "Georges KABBOUCHI <georges.kabbouchi@gmail.com>",
+    "publishConfig": { 
+      "registry": "https://npm.pkg.github.com/" 
+    },
     "files": [
         "dist",
         "src"
